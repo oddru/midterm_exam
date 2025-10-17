@@ -1,2 +1,4 @@
-# midterm_exam
-exam
+#Sam Aison Arreglo
+#BSCS
+#Software Engineering 2
+#CS 31
